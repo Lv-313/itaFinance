@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_blur_": {
+        "enabled": false,
+        "value": 100
+    },
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc343058d8c04cde9f4885850e2ac61c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "disabledSkins": {
+        "focusSkin": "s873e8b28ebb425f80404b5399d3e2e0"
+    },
+    "enablescrolling": true,
+    "id": "FlexContainer0ee976cdbdc3e48",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g46139ff487742d7b3868304176c4b61",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmChart",
+    "pf": "frmChart",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,38 @@
+{
+  "android": {
+    "background_image": "beautifulhorse.png",
+    "bg_type": "image"
+  },
+  "androidwearos": {
+    "font_name": "default"
+  },
+  "background_image": "",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {},
+  "ipad": {},
+  "iphone": {
+    "background_image": "beautifulhorse.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {},
+  "kuid": "s873e8b28ebb425f80404b5399d3e2e0",
+  "spaan": {},
+  "spaandroidtablet": {},
+  "spabb": {},
+  "spaip": {},
+  "spaipad": {},
+  "spawindowstablet": {},
+  "spawinphone8": {},
+  "tabrcandroid": {},
+  "wType": "FlexContainer",
+  "watchos": {
+    "font_name": "System"
+  },
+  "windows8": {},
+  "winphone8": {}
+}

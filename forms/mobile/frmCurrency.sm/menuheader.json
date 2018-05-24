@@ -1,0 +1,86 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_render_": true,
+    "_skin_": "s8bb9768777e452ab9f45071b5145da1",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": true,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "flxMenubtn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e72171da8e884f159b7de0ad57cc13ec",
+                "srcKUID": "f7ced4f0dbd64f67b61248335a453223",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgMenuIcon": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ee533dc676784aa9b42bc20786863ef5",
+                "srcKUID": "hdbbc39bb59c40cd809e861a832a68ec",
+                "wType": "Image"
+            }
+        },
+        "menuheader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e337a97fb2544eeeacd8e592131c33d7",
+                "srcKUID": "d9dd2473916e4045be2671686e242660",
+                "wType": "FlexContainer"
+            }
+        }
+    },
+    "id": "menuheader",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e337a97fb2544eeeacd8e592131c33d7",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmCurrency",
+    "pf": "frmCurrency",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "snaptogrid": true,
+    "sourceUserWidget": "d9dd2473916e4045be2671686e242660",
+    "wType": "UserWidgetInstance"
+}
